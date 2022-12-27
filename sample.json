@@ -1,0 +1,242 @@
+{
+    "CMS surgical kit": {
+        "need": 2,
+        "have": 0
+    },
+    "Can of beef stew (Large)": {
+        "need": 2,
+        "have": 0
+    },
+    "Emelya rye croutons": {
+        "need": 2,
+        "have": 0
+    },
+    "Iskra ration pack": {
+        "need": 3,
+        "have": 0
+    },
+    "Portable defibrillator": {
+        "need": 1,
+        "have": 0
+    },
+    "Malboro Cigarettes": {
+        "need": 5,
+        "have": 0
+    },
+    "Strike Cigarettes": {
+        "need": 5,
+        "have": 0
+    },
+    "Wilston cigarettes": {
+        "need": 5,
+        "have": 0
+    },
+    "Car battery": {
+        "need": 4,
+        "have": 0
+    },
+    "Spark plug": {
+        "need": 8,
+        "have": 0
+    },
+    "Kinda cowboy hat": {
+        "need": 2,
+        "have": 0
+    },
+    "Ushanka ear flap hat": {
+        "need": 2,
+        "have": 0
+    },
+    "Power cord": {
+        "need": 2,
+        "have": 0
+    },
+    "Printed circuit board": {
+        "need": 5,
+        "have": 0
+    },
+    "T-Shaped plug": {
+        "need": 4,
+        "have": 0
+    },
+    "CPU fan": {
+        "need": 8,
+        "have": 0
+    },
+    "Graphics card": {
+        "need": 3,
+        "have": 0
+    },
+    "Bundle of wires": {
+        "need": 5,
+        "have": 0
+    },
+    "Capacitors": {
+        "need": 5,
+        "have": 0
+    },
+    "TerraGroup Labs access keycard": {
+        "need": 2,
+        "have": 0
+    },
+    "Can of beef stew (Small)": {
+        "need": 15,
+        "have": 0
+    },
+    "AK-74 5.45x39 6L31 60-round magazine": {
+        "need": 3,
+        "have": 0
+    },
+    "Military COFDM Wireless Signal Transmitter": {
+        "need": 1,
+        "have": 0
+    },
+    "Virtex programmable processor": {
+        "need": 2,
+        "have": 0
+    },
+    "Antique teapot": {
+        "need": 3,
+        "have": 0
+    },
+    "Antique vase": {
+        "need": 2,
+        "have": 0
+    },
+    "Axel parrot figurine": {
+        "need": 2,
+        "have": 0
+    },
+    "Raven figurine": {
+        "need": 3,
+        "have": 0
+    },
+    "Morphine injector": {
+        "need": 8,
+        "have": 0
+    },
+    "LEDX Skin Transilluminator": {
+        "need": 1,
+        "have": 0
+    },
+    "Ophthalmoscope": {
+        "need": 1,
+        "have": 0
+    },
+    "Gas analyzer": {
+        "need": 3,
+        "have": 0
+    },
+    "Ski hat with holes for eyes": {
+        "need": 1,
+        "have": 0
+    },
+    "BlackRock chest rig": {
+        "need": 2,
+        "have": 0
+    },
+    "Wartech gear rig": {
+        "need": 2,
+        "have": 0
+    },
+    "Secure Flash drive": {
+        "need": 5,
+        "have": 0
+    },
+    "Salewa first aid kit": {
+        "need": 3,
+        "have": 0
+    },
+    "Broken GPhone smartphone": {
+        "need": 3,
+        "have": 0
+    },
+    "PC CPU": {
+        "need": 3,
+        "have": 0
+    },
+    "Rechargeable battery": {
+        "need": 3,
+        "have": 0
+    },
+    "Clin window cleaner": {
+        "need": 2,
+        "have": 0
+    },
+    "Corrugated hose": {
+        "need": 4,
+        "have": 0
+    },
+    "Ox bleach": {
+        "need": 2,
+        "have": 0
+    },
+    "WD-40 (100ml)": {
+        "need": 1,
+        "have": 0
+    },
+    "Alkaline cleaner for heat exchangers": {
+        "need": 2,
+        "have": 0
+    },
+    "Propane tank (5L)": {
+        "need": 2,
+        "have": 0
+    },
+    "BNTI Module-3M body armor": {
+        "need": 1,
+        "have": 0
+    },
+    "TOZ-106 20ga bolt-action shotgun": {
+        "need": 1,
+        "have": 0
+    },
+    "Fuel conditioner": {
+        "need": 4,
+        "have": 0
+    },
+    "Medical bloodset": {
+        "need": 3,
+        "have": 0
+    },
+    "Respirator": {
+        "need": 4,
+        "have": 0
+    },
+    "Bars A-2607 95H18 knife": {
+        "need": 5,
+        "have": 0
+    },
+    "Lower half-mask": {
+        "need": 7,
+        "have": 0
+    },
+    "Makarov PM 9x18PM pistol": {
+        "need": 2,
+        "have": 0
+    },
+    "Kalashnikov AK-74N 5.45x39 assault rifle": {
+        "need": 1,
+        "have": 0
+    },
+    "Colt M4A1 5.56x45 assault rifle": {
+        "need": 1,
+        "have": 0
+    },
+    "BOSS cap": {
+        "need": 1,
+        "have": 0
+    },
+    "Maska-1SCh bulletproof helmet (Killa)": {
+        "need": 1,
+        "have": 0
+    },
+    "TT-33 7.62x25 TT pistol (Golden)": {
+        "need": 1,
+        "have": 0
+    },
+    "Shturman's stash key": {
+        "need": 1,
+        "have": 0
+    }
+}
